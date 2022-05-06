@@ -1,6 +1,6 @@
-package com.example.EJ2.repositories;
+package com.example.EJ2.infrastructure.repository;
 
-import com.example.EJ2.models.Person;
+import com.example.EJ2.domain.entity.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

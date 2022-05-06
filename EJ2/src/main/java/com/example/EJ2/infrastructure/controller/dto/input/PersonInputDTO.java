@@ -1,4 +1,4 @@
-package com.example.EJ2.models;
+package com.example.EJ2.infrastructure.controller.dto.input;
 
 import lombok.*;
 

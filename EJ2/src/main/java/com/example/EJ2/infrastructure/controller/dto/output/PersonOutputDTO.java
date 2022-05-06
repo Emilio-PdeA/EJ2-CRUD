@@ -1,8 +1,8 @@
-package com.example.EJ2.models;
+package com.example.EJ2.infrastructure.controller.dto.output;
 
+import com.example.EJ2.domain.entity.Person;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.Date;
 
